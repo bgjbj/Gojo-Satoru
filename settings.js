@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['201554861890']
 global.premium = ['🜋|𝐑𝐈𝐌♕𝐔𝐑𝐔 𓆩ま𓆪']
-global.ownernomer = '🜋|𝐑𝐈𝐌♕𝐔𝐑𝐔 𓆩ま𓆪'
+global.ownernomer = '201554861890'
 global.ownername = '201554861890'
 global.botname = 'miku'
 global.footer = '©NexusNwInc.'
