@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['🜋 | 𝐑𝐈𝐌♕𝐔𝐑𝐔 𓆩ま𓆪']
+global.owner = ['201554861890']
 global.premium = ['201554861890']
 global.ownernomer = '201554861890'
 global.ownername = '🐦Star Boy Nexus'
