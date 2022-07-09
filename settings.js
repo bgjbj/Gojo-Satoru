@@ -40,7 +40,7 @@ global.mess = {
     botAdmin: 'هات ادمن الاول يا برو!',
     owner: 'ذلك للوسيفر العظيم وحده',
     group: 'للجروبات فقط!',
-    private: 'Features Used Only For Private Chat!',
+    private: 'ذلك الامر للخاص فقط!',
     bot: 'الأمر للبوت فقط',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
